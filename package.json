@@ -39,6 +39,9 @@
     "react-dom": "^16.6.3",
     "react-table-plain": "^0.0.6"
   },
+  "peerDependencies": {
+    "react-table-plain": "^0.0.6"
+  },
   "jest": {
     "moduleFileExtensions": [
       "ts",
