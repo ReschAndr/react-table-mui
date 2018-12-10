@@ -1,6 +1,6 @@
 {
   "name": "react-table-mui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A Material-UI implementation of react-table-plain",
   "main": "lib/index.js",
   "scripts": {
