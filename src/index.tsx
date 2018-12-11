@@ -28,7 +28,7 @@ export class TableMui extends React.Component<TableProps> {
         <IconButton
           style={{
             transition: "transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms",
-            transform: `rotate(${expanded ? 180 : 0}deg)`
+            transform: `rotate(${expanded ? 0 : -90}deg)`
           }}
         >
           <ExpandMoreIcon />
