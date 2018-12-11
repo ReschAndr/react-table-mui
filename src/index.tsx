@@ -1,5 +1,5 @@
 import * as React from "react";
-import { TablePlain, TableProps, IColDef } from "react-table-plain";
+import { TablePlain, TableProps, IColDef } from "@dccs/react-table-plain";
 import { extend } from "lodash";
 import IconButton from "@material-ui/core/IconButton";
 import Table from "@material-ui/core/Table";
