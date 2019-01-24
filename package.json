@@ -34,13 +34,13 @@
   "dependencies": {
     "@material-ui/core": "^3.6.2",
     "@material-ui/icons": "^3.0.1",
-    "@dccs/react-table-plain": "^0.1.6-0",
+    "@dccs/react-table-plain": "^0.1.7",
     "lodash": "^4.17.11",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
   "peerDependencies": {
-    "react-table-plain": "^0.0.6"
+    "react-table-plain": "^0.1.7"
   },
   "jest": {
     "moduleFileExtensions": [
