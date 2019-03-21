@@ -32,15 +32,15 @@
   },
   "homepage": "https://github.com/DCCS-IT-Business-Solutions/react-table-mui#readme",
   "dependencies": {
+    "@dccs/react-table-plain": "^0.2.0",
     "@material-ui/core": "^3.6.2",
     "@material-ui/icons": "^3.0.1",
-    "@dccs/react-table-plain": "^0.2.0",
     "lodash": "^4.17.11",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
   },
   "peerDependencies": {
-    "react-table-plain": "^0.2.0"
+    "@dccs/react-table-plain": "^0.2.0"
   },
   "jest": {
     "moduleFileExtensions": [
